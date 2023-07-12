@@ -29,6 +29,10 @@ An embedded system which can take a photo of some coins, recognize the coins in 
 - Main peripherals: Raspberry Pi Camera, GPIO Button, Speaker, Power adapter.
 - Additional peripherals: Display, Mouse, Keyboard.
 
+<p align="center">
+   <img alt="Demo Setup" width="70%" src="https://github.com/KhalilOuali/Pi3-Detecto-Coin-Recognition/assets/68998620/077432ad-093d-4aa3-90b2-b1bf5f76bb5b">
+</p>
+   
 ### Software
 
 - Language: Python.
@@ -39,6 +43,10 @@ An embedded system which can take a photo of some coins, recognize the coins in 
 ### Operation
 
 Once the system is on and the python script is launched, the user can aim the camera at the coins and press the button to begin the detection. After detecting the coins and calculating their sum, the program outputs the result via audio.
+
+<p align="center">
+   <img alt="Demo Setup" width="70%" src="https://github.com/KhalilOuali/Pi3-Detecto-Coin-Recognition/assets/68998620/060badee-2026-46c5-9663-20280fedd36f">
+</p>
 
 ### Limitations and Prospects
 
