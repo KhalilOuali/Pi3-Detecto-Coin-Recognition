@@ -5,7 +5,7 @@ Proposed and supervised by Prof. Kamel ECHAIEB.
 
 ## Context
 
-This was our end-of-year project for the second year of our Computer Engineering degree (LCE-IOT 2) at the Faculty of Scicences of Tunis (FST).
+This was our end-of-year project for the second year of our Computer Engineering degree (LCE-IOT 2) at the Faculty of Sciences of Tunis (FST).
 
 ## Objective
 
